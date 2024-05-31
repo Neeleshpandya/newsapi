@@ -1,0 +1,6 @@
+Flask==2.0.1
+pandas==1.2.4
+flair==0.8
+newsapi-python==0.2.6
+transformers==4.6.1
+torch==1.8.1
